@@ -1,0 +1,20 @@
+.Login{
+    border:5px solid skyblue;
+    height:325px;
+    width: 300px;
+    border-radius: 20px;
+    padding-top: 100px;
+    padding-right: 20px;
+    padding-left:40px;
+    margin-left: 700px;
+    margin-top: 100px;
+    background-color: skyblue;
+    text-align: left;
+   }
+   .button{
+    background-color:rgb(170, 114, 114);
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 100px;
+   }
+   
